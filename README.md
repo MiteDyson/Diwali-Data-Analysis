@@ -48,7 +48,3 @@ This project involves performing data cleaning, manipulation, and exploratory da
    python your_script_name.py
    ```
 
-## Conclusion
-
-Through this project, we were able to leverage data analysis techniques to gain actionable insights into customer demographics and product sales, ultimately enhancing both customer experience and sales performance.
-
